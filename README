@@ -1,0 +1,27 @@
+
+Rime IME Cangjie schema with Simplified Chinese dictionary
+
+Dependencies:
+  OpenCC <https://code.google.com/p/opencc/>
+  essay.txt from brise <https://github.com/lotem/brise>
+
+How to generate *.dict.yaml:
+  Execute the coresponding generate_*.dict.yaml.sh bash script.
+
+How to apply the schema to your Rime IME:
+  https://code.google.com/p/rimeime/wiki/UserGuide
+
+-----------------------------------------------------------------------------
+
+中州韻仓颉输入法简体字词库订制
+
+依赖项：
+  OpenCC <https://code.google.com/p/opencc/>
+  “東風破”方案库中的 essay.txt <https://github.com/lotem/brise>
+
+如何生成 *.dict.yaml 词典文件：
+  执行对应的 generate_*.dict.yaml.sh 之 shell 脚本。
+
+如何将该方案应用到中州韻配置：
+  https://code.google.com/p/rimeime/wiki/UserGuide
+
