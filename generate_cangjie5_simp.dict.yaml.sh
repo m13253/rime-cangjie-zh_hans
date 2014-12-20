@@ -39,5 +39,5 @@ encoder:
 ...
 
 EOM
-opencc -c zht2zhs.ini -i essay.txt >>cangjie5_simp.dict.yaml
+opencc -c t2s.json -i essay.txt >>cangjie5_simp.dict.yaml
 echo "词库文件 cangjie5_simp.dict.yaml 已创建。" >&2
